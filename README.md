@@ -6,6 +6,14 @@
 
 ---
 
+## <p align="center">Contribution Calendar</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/4FA4FF/Nafa369" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
 ## <p align="center">About Me</p>
 
 <p align="center">
@@ -67,15 +75,6 @@
 </tr>
 </tbody></table>
 
----
-
-## <p align="center">Contribution Calendar</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4FA4FF/Nafa369" alt="GitHub Contribution Chart" />
-</p>
-
----
 
 ## <p align="center">Connect with Me</p>
 
