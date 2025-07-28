@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/4FA4FF/Nafa369" alt="GitHub Contribution Chart" />
 </p>
+<p align="center">"Bringing melodies to code, one line at a time 🎵"</p>
 
 ---
 
