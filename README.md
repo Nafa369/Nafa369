@@ -19,7 +19,7 @@
 
 <p align="center">
   I'm a passionate <strong>Web Development Enthusiast</strong> who's currently diving deep into 
-  <strong>HTML, CSS, JavaScript</strong>, and exploring tools like <strong>Tailwind CSS</strong> and <strong>Alpine.js</strong>.<br>
+  <strong>HTML, CSS, JavaScript</strong>, and exploring tools like <strong>Tailwind CSS</strong> and <strong>React.js</strong>.<br>
   I love building clean and interactive websites, and I'm also working on a personal project called <strong>"Cast & Code"</strong> — a space where my hobby in diecast collecting meets coding.
 </p>
 
